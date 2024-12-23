@@ -1,1 +1,1 @@
-reset_lifecycle_file 
+„hello git reset” 
